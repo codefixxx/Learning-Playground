@@ -1,0 +1,34 @@
+div#red{
+    background-color:red;
+    height:100px;
+    width:100px;
+    margin:10px;
+    border-radius:50%;
+}
+div#yellow{
+    background-color:yellow;
+    height:100px;
+    width:100px;
+    margin:10px;
+    border-radius:50%;
+}
+div#green{
+    background-color:green;
+    height:100px;
+    width:100px;
+    margin:10px;
+    border-radius:50%;
+}
+div#outer1{
+    height:360px;
+    width:120px;
+    border:1px solid black;
+    margin:10px;
+}
+div#outer2{
+    padding:10px;
+    height:401.6px;
+    width:160px;
+    border:1px solid black;
+    margin:300px;
+}

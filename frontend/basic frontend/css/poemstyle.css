@@ -1,0 +1,47 @@
+p{
+    color:#a52a2a;
+    text-align: center;
+    line-height: 30px;
+}
+h1,h3{
+    text-align: center;
+}
+h1{
+    color:red;
+}
+h3{
+    color:black
+}
+body{
+    font-family: Georgia;
+}
+a{
+    color:green;
+    text-decoration: none;
+}
+button{
+    color:blueviolet;
+    background-color: white;
+}
+textarea{
+    color:black;
+    
+}
+span{
+    text-decoration: underline;
+}
+body{
+    background-color: wheat;
+}
+button#id1:hover{
+    background-color: black;
+    color:white;
+}
+button.class1:active{
+    background-color:green;
+
+}
+*::selection{
+    color:black;
+    background-color: lightskyblue;
+}

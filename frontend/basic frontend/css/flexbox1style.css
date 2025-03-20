@@ -1,0 +1,14 @@
+div{
+    background-color: blueviolet;
+    height:100px;
+    width:100px;
+}
+body{
+    height:800px;
+    display:flex;
+    border:5px solid black;
+    justify-content: space-evenly;
+    align-items:center;
+    
+    
+}
